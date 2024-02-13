@@ -1,4 +1,5 @@
-
+State management library used: Mobx
+Reason: Was not a heavy complex task,  so used a less complex library :sweat_smile:
 
 In the project directory,  run:
 
