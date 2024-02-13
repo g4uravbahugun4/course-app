@@ -1,0 +1,168 @@
+[{
+    "id": 1, 
+    "name": "Introduction to React Native",
+    "instructor": "John Doe",
+    "description": "Learn the basics of React Native development and build your first mobile app.",
+    "enrollmentStatus": "Open", 
+    "thumbnail": "https://gsep.pepperdine.edu/blog/images/how-much-could-a-masters-degree-increase-your-teaching-salary.png",
+    "duration": "8 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+    "startDate": "12 March 2024",
+    "syllabus": [
+            {
+                "week": 1,
+                "topic": "Introduction to React Native",
+                "content": "Overview of React Native, setting up your development environment."
+            },
+            {
+                "week": 2,
+                "topic": "Building Your First App",
+                "content": "Creating a simple mobile app using React Native components."
+            }
+         
+            ],
+    
+    "students": [
+            {
+                "id": 101,
+                "name": "Alice Johnson",
+                "email": "alice@example.com"
+            },
+            {
+                "id": 102,
+                "name": "Bob Smith",
+                "email": "bob@example.com"
+            }
+          
+            ]
+},
+{
+    "id": 2,
+    "name": "Python Programming",
+    "instructor": "Jane Smith",
+    "description": "Master Python programming language and become proficient in building applications.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "https://gsep.pepperdine.edu/blog/images/how-much-could-a-masters-degree-increase-your-teaching-salary.png",
+    "duration": "10 weeks",
+    "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": [
+        "Basic programming knowledge"
+    ],
+    "startDate": "26 February 2024",
+    "syllabus": [
+        {
+            "week": 1,
+            "topic": "Introduction to Python",
+            "content": "Introduction to Python programming language, basic syntax, and data types."
+        },
+        {
+            "week": 2,
+            "topic": "Control Flow",
+            "content": "Learn about control flow statements in Python such as if-else, loops, and iterators."
+        }
+       
+    ],
+    "students": [
+        {
+            "id": 103,
+            "name": "Charlie Brown",
+            "email": "charlie@example.com"
+        },
+        {
+            "id": 104,
+            "name": "Diana Smith",
+            "email": "diana@example.com"
+        }
+       
+    ]
+},
+{
+    "id": 3,
+    "name": "C++ Data Structures and Algorithms",
+    "instructor": "Michael Johnson",
+    "description": "Learn data structures and algorithms using C++ language.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "https://gsep.pepperdine.edu/blog/images/how-much-could-a-masters-degree-increase-your-teaching-salary.png",
+    "duration": "12 weeks",
+    "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": [
+        "Basic programming knowledge",
+        "Familiarity with C++"
+    ],
+    "startDate": "18 February 2024",
+    "syllabus": [
+        {
+            "week": 1,
+            "topic": "Introduction to Data Structures",
+            "content": "Overview of data structures, arrays, and linked lists."
+        },
+        {
+            "week": 2,
+            "topic": "Stacks and Queues",
+            "content": "Introduction to stacks and queues, their implementations, and applications."
+        }
+        
+    ],
+    "students": [
+        {
+            "id": 105,
+            "name": "Eva Johnson",
+            "email": "eva@example.com"
+        },
+        {
+            "id": 106,
+            "name": "Frank Williams",
+            "email": "frank@example.com"
+        }
+        
+    ]
+},
+{
+    "id": 4,
+    "name": "DevOps Fundamentals",
+    "instructor": "Emily Brown",
+    "description": "Learn the fundamentals of DevOps, including continuous integration, continuous deployment, and infrastructure as code.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "https://gsep.pepperdine.edu/blog/images/how-much-could-a-masters-degree-increase-your-teaching-salary.png",
+    "duration": "6 weeks",
+    "schedule": "Fridays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": [
+        "Basic knowledge of Linux",
+        "Familiarity with version control systems"
+    ],
+    "syllabus": [
+        {
+            "week": 1,
+            "topic": "Introduction to DevOps",
+            "content": "Understanding the principles and benefits of DevOps."
+        },
+        {
+            "week": 2,
+            "topic": "Continuous Integration",
+            "content": "Implementing continuous integration using tools like Jenkins and GitLab CI."
+        }
+      
+    ],
+    "startDate": "1 March 2024",
+    "students": [
+        {
+            "id": 107,
+            "name": "Grace Taylor",
+            "email": "grace@example.com"
+        },
+        {
+            "id": 108,
+            "name": "Henry Martinez",
+            "email": "henry@example.com"
+        }
+     
+    ]
+}
+]
+
+
